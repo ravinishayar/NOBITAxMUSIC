@@ -76,7 +76,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
       [
             InlineKeyboardButton(
-                text="𝖮ᴡɴᴇʀ 🥀", url="https://t.me/II_FEARLESS_NOBITA_II",
+                text="𝖮ᴡɴᴇʀ 🥀", url="https://t.me/ll_YOURR_NOBITA_ll",
             ),
             InlineKeyboardButton(
                 text="𝖲ᴜᴘᴘᴏʀᴛ 🥀", url="https://t.me/Nobitaeditzx",
