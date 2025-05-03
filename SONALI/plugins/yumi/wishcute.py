@@ -4,7 +4,7 @@ import random
 import requests
 from SONALI import app 
 
-SUPPORT_CHAT = "OG_DEFAULTERS_001"
+SUPPORT_CHAT = "OG_DEFAULTERS_01"
 
 @app.on_message(filters.command("wish"))
 async def wish(_, m):
