@@ -42,19 +42,19 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
     if 0 < umm <= 10:
         bar = "♡—————————"
     elif 10 < umm < 20:
-        bar = "—ꪜ————————"
+        bar = "—♡————————"
     elif 20 <= umm < 30:
-        bar = "——𝛊———————"
+        bar = "——𝚴———————"
     elif 30 <= umm < 40:
-        bar = "———ɭ——————"
+        bar = "———𝐎——————"
     elif 40 <= umm < 50:
-        bar = "————ɭ—————"
+        bar = "————𝐁—————"
     elif 50 <= umm < 60:
-        bar = "—————᧘————"
+        bar = "—————𝚰————"
     elif 60 <= umm < 70:
-        bar = "——————𝛊———"
+        bar = "——————𝐓———"
     elif 70 <= umm < 80:
-        bar = "———————𝛈——"
+        bar = "———————𝚲——"
     elif 80 <= umm < 95:
         bar = "————————♡—"
     else:
@@ -76,10 +76,10 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
       [
             InlineKeyboardButton(
-                text="𝖮ᴡɴᴇʀ 🥀", url="https://t.me/Orewa_KANISH",
+                text="𝖮ᴡɴᴇʀ 🥀", url="https://t.me/ll_TOXIC_DEFAULTERS_ll",
             ),
             InlineKeyboardButton(
-                text="𝖲ᴜᴘᴘᴏʀᴛ 🥀", url="https://t.me/+SxwO68pbQeg3MjY1",
+                text="𝖲ᴜᴘᴘᴏʀᴛ 🥀", url="https://t.me/+u-YEc0Lc_GJhZjdl",
             )
         ],
          [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
